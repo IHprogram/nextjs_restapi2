@@ -26,7 +26,7 @@ SECRET_KEY = config('SECRET_KEY')
 DEBUG = config('DEBUG')
 
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['nextjs-iida-api.herokuapp.com']
 
 
 # Application definition
